@@ -9,6 +9,5 @@ py-zerox
 PyPDF2
 pytesseract
 proto-plus                        
-protobuf                        
-psycopg2                         
+protobuf                                              
 ptyprocess                      
