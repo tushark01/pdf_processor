@@ -1,0 +1,10 @@
+oauthlib
+openai
+opencv-python
+opencv-python-headless
+pandas
+pdf2image
+poppler-utils
+py-zerox
+PyPDF2
+pytesseract
